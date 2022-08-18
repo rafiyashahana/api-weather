@@ -1,0 +1,15 @@
+#city-input,
+#weather-output {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  background: rgb(242, 242, 247);
+  padding: 10vh;
+  border-radius: 9px;
+}
+body {
+  height: 100vh;
+  background: rgb(229, 229, 234);
+}
